@@ -8,7 +8,7 @@ from sklearn.model_selection import train_test_split
 import random
 
 # Train Images Path
-DATADIR = r"C:\Users\SK\FoodDetector\TrainImages"
+DATADIR = r"\TrainImages"
 
 # Food Categories
 CATGOERIES = ["Dosa","Idiyappam","Idli","Onion","Pongal","Poori","Vada"]
